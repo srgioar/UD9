@@ -4,4 +4,4 @@
  4. Por cuestión de tiempo lo he dejado fuera.
  PENDIENTE:
  2. No compara el elemento más alto entre Juegos y Películas. Pendiente implementar CompareTo()
- 6. Por problemas seteando el array de booleanos (pese a darles valores a los elementos del array y comprobar que esa posición pilla valor de forma individual y lo imprime bien, al pintar el array entero no los imprime bien) el ejercicio no está terminado
+ 6. El método que pinta el array completo no da valores booleanos correctos respecto a si están las posiciones ocupadas. Las inserta correctamente y apuntando a una posición individual su seteo es correcto, pero al pintar el array al completo en vez de valores individuales me da los valores como false (VACÍOS).
